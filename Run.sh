@@ -5,5 +5,5 @@ do
 	python main.py --Trial=$t --FeatLen=2 --Sep=0.7 --S=30000 
 	python main.py --Trial=$t --FeatLen=2 --Sep=0.7 --S=40000 
 	python main.py --Trial=$t --FeatLen=2 --Sep=0.7 --S=50000 
-	python main.py --Trial=$t --FeatLen=2 --Sep=0.7 --S=60000 
+	python main.py --Trial=$t --FeatLen=2 --Sep=0.7 --S=70000 
 done
